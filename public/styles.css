@@ -1,1 +1,19 @@
 /* TODO: Make a color scheme. (preferably purple or pink) */
+body {
+    background-color: #F83CAF;
+    color: #eee;
+}
+
+h1 {
+    text-align: center;
+    margin: 5%;
+}
+
+nav {
+    padding: 5%;
+}
+/* Color Scheme : 
+
+#F83CAF #CF34D9 
+
+#B745F0 #7534D9 #523CF8*/
